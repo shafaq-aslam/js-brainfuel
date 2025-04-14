@@ -44,7 +44,7 @@ Each folder is a topic. Inside:
 
 | Topic           | Status   |
 |----------------|----------|
-| ✅ Variables     | Upcoming |
+| ⏳ Variables     | Upcoming |
 | ⏳ Functions     | Upcoming |
 | ⏳ Conditionals  | Upcoming |
 | ⏳ Loops         | Upcoming |
