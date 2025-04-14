@@ -44,15 +44,15 @@ Each folder is a topic. Inside:
 
 | Topic           | Status   |
 |----------------|----------|
-| ✅ Variables     | Completed |
-| ⏳ Functions     | In Progress |
+| ✅ Variables     | Upcoming |
+| ⏳ Functions     | Upcoming |
 | ⏳ Conditionals  | Upcoming |
 | ⏳ Loops         | Upcoming |
 | ⏳ Arrays        | Upcoming |
 | ⏳ Objects       | Upcoming |
 | ⏳ DOM Basics    | Upcoming |
 | ⏳ Events        | Upcoming |
-| ⏳ Mini Projects | In Progress |
+| ⏳ Mini Projects | Upcoming |
 | ⏳ Final Project | Upcoming |
 
 ---
